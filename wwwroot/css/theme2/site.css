@@ -1,0 +1,33 @@
+﻿body {
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text */
+}
+
+.navbar {
+    background-color: #333333; /* Dark navbar */
+}
+
+    .navbar .nav-link {
+        color: #e0e0e0; /* Light color for navbar links */
+    }
+
+footer {
+    background-color: #222222; /* Dark footer background */
+    color: #e0e0e0; /* Light footer text */
+}
+
+.container, .card, .table {
+    background-color: #1c1c1c; /* Dark background for containers, cards, and tables */
+    color: #e0e0e0; /* Light text inside containers */
+    border-color: #333333; /* Dark border */
+}
+
+.btn {
+    background-color: #444444; /* Dark buttons */
+    color: #e0e0e0; /* Light text on buttons */
+    border-color: #555555; /* Dark border for buttons */
+}
+
+    .btn:hover {
+        background-color: #555555; /* Slightly lighter when hovering */
+    }
